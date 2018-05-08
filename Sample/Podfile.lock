@@ -1,0 +1,16 @@
+PODS:
+  - Bash (1.0.0)
+
+DEPENDENCIES:
+  - Bash (from `../`)
+
+EXTERNAL SOURCES:
+  Bash:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Bash: 0ac7d484b3ba4f73c56fda712e1f9578739c3eed
+
+PODFILE CHECKSUM: 7fd99673ee7567add9b0802749a5ba32ddbe336e
+
+COCOAPODS: 1.5.0
